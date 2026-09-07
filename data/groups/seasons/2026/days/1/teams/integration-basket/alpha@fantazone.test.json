@@ -1,0 +1,23 @@
+{
+  "name": "Alpha FC",
+  "owner": "alpha@fantazone.test",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Alpha Forward",
+      "team": {
+        "name": "Alpha Serie A",
+        "abbreviation": "alf"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": "2026-09-07T10:57:26.644Z"
+}
