@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "repository": "KeyserDSoze/Fantazone.Test",
+  "purpose": "Disposable real GitHub integration target for Fantazone",
+  "policy": "Integration suites reuse main and start with a cleanup commit whose tree contains only this marker. Generated files remain available in Git history."
+}
