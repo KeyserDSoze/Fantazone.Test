@@ -1,0 +1,50 @@
+{
+  "markets": [
+    {
+      "id": "market-34114018116",
+      "buyer": "alpha@fantazone.test",
+      "seller": "beta@fantazone.test",
+      "buyerPlayers": [
+        {
+          "name": "Alpha Forward",
+          "team": {
+            "name": "Alpha Serie A",
+            "abbreviation": "alf"
+          },
+          "role": 3,
+          "isActive": true,
+          "visible": true,
+          "price": 100,
+          "revenue": 0,
+          "status": 0,
+          "position": 3
+        }
+      ],
+      "sellerPlayers": [
+        {
+          "name": "Beta Forward",
+          "team": {
+            "name": "Beta Serie A",
+            "abbreviation": "bet"
+          },
+          "role": 3,
+          "isActive": true,
+          "visible": true,
+          "price": 120,
+          "revenue": 0,
+          "status": 0,
+          "position": 3
+        }
+      ],
+      "moneyFromBuyer": 0,
+      "moneyFromSeller": 0,
+      "approvers": [
+        "alpha@fantazone.test",
+        "beta@fantazone.test"
+      ],
+      "deniers": [],
+      "status": 0,
+      "creationTime": "2026-09-07T11:33:16.906Z"
+    }
+  ]
+}
