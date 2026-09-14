@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "name": "Alpha FC",
+  "owner": "alpha@fantazone.test",
+  "additionalOwners": [],
+  "players": [
+    {
+      "playerKey": "alphaforward",
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    }
+  ],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "2026-09-14T04:48:17.977Z"
+}
