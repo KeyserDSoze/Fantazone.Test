@@ -6,7 +6,7 @@
   "season": 2026,
   "actor": "alpha@fantazone.test",
   "requestedAt": "2026-09-28T04:52:31.183Z",
-  "status": "pending",
+  "status": "applied",
   "create": {
     "buyer": "alpha@fantazone.test",
     "seller": "beta@fantazone.test",
@@ -18,5 +18,10 @@
     ],
     "moneyFromBuyer": 0,
     "moneyFromSeller": 0
+  },
+  "result": {
+    "marketId": "market-36379447584",
+    "marketStatus": 0,
+    "processedAt": "2026-09-28T04:52:33.616Z"
   }
 }
