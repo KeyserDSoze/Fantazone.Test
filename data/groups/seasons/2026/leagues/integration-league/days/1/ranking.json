@@ -1,0 +1,67 @@
+{
+  "serieADay": 1,
+  "rounds": {
+    "@": [
+      {
+        "name": "Alpha FC",
+        "owner": "alpha@fantazone.test",
+        "point": 4,
+        "victories": 1,
+        "draws": 0,
+        "defeats": 0,
+        "goal": 2,
+        "sufferedGoal": 0,
+        "valuePoint": 70,
+        "sufferedValuePoint": 60,
+        "plusMoney": 0,
+        "money": 1000,
+        "valueAssets": 1000
+      },
+      {
+        "name": "Beta FC",
+        "owner": "beta@fantazone.test",
+        "point": 3,
+        "victories": 0,
+        "draws": 1,
+        "defeats": 0,
+        "goal": 0,
+        "sufferedGoal": 0,
+        "valuePoint": 69,
+        "sufferedValuePoint": 61,
+        "plusMoney": 0,
+        "money": 1000,
+        "valueAssets": 999
+      },
+      {
+        "name": "Gamma FC",
+        "owner": "gamma@fantazone.test",
+        "point": 2,
+        "victories": 0,
+        "draws": 0,
+        "defeats": 1,
+        "goal": 0,
+        "sufferedGoal": 1,
+        "valuePoint": 68,
+        "sufferedValuePoint": 62,
+        "plusMoney": 0,
+        "money": 1000,
+        "valueAssets": 998
+      },
+      {
+        "name": "Delta FC",
+        "owner": "delta@fantazone.test",
+        "point": 1,
+        "victories": 0,
+        "draws": 0,
+        "defeats": 1,
+        "goal": 0,
+        "sufferedGoal": 1,
+        "valuePoint": 67,
+        "sufferedValuePoint": 63,
+        "plusMoney": 0,
+        "money": 1000,
+        "valueAssets": 997
+      }
+    ]
+  }
+}
