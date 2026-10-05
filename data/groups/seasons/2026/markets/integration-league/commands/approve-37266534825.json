@@ -6,6 +6,11 @@
   "season": 2026,
   "actor": "gamma@fantazone.test",
   "requestedAt": "2026-10-05T05:10:59.329Z",
-  "status": "pending",
-  "marketId": "market-37266534825"
+  "status": "applied",
+  "marketId": "market-37266534825",
+  "result": {
+    "marketId": "market-37266534825",
+    "marketStatus": 1,
+    "processedAt": "2026-10-05T05:11:02.197Z"
+  }
 }
