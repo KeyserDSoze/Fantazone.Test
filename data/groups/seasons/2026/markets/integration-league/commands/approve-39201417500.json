@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "id": "approve-39201417500",
+  "kind": "approve",
+  "leagueId": "integration-league",
+  "season": 2026,
+  "actor": "gamma@fantazone.test",
+  "requestedAt": "2026-10-19T04:50:58.553Z",
+  "status": "pending",
+  "marketId": "market-39201417500"
+}
