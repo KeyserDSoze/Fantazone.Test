@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "id": "market-42623954808",
+  "kind": "create",
+  "leagueId": "integration-league",
+  "season": 2026,
+  "actor": "alpha@fantazone.test",
+  "requestedAt": "2026-11-09T13:17:17.286Z",
+  "status": "pending",
+  "create": {
+    "buyer": "alpha@fantazone.test",
+    "seller": "beta@fantazone.test",
+    "buyerPlayerKeys": [
+      "alphaforward"
+    ],
+    "sellerPlayerKeys": [
+      "betaforward"
+    ],
+    "moneyFromBuyer": 0,
+    "moneyFromSeller": 0
+  }
+}
