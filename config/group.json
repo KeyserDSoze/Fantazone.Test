@@ -1,0 +1,13 @@
+{
+  "id": "Fantazone-Integration-League",
+  "name": "Fantazone Integration League",
+  "leagues": [],
+  "users": [
+    {
+      "username": "Integration Admin",
+      "email": "integration.admin@fantazone.test",
+      "role": 14
+    }
+  ],
+  "baskets": []
+}
