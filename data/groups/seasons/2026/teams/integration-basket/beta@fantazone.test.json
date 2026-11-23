@@ -5,8 +5,8 @@
   "additionalOwners": [],
   "players": [
     {
-      "playerKey": "betaforward",
-      "price": 120,
+      "playerKey": "alphaforward",
+      "price": 100,
       "revenue": 0,
       "status": 0,
       "position": 3
